@@ -35,6 +35,6 @@ Welcome to Ping Pong, a simple browser-based game where two players compete to h
 - **Alert Messages**: Alert messages provide feedback to the players, including the maximum score achieved and game instructions.
 - **Game Board Reset**: The game board resets after each round, maintaining the positions of paddles and the ball.
 
-Enjoy playing Ping Pong! If you have any questions or feedback, feel free to reach out to me via email at panwarvishakha31@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/vishakha-panwar-55a84114b/. I'm open to collaborations, job opportunities, or just a friendly chat!
+Enjoy playing Ping Pong! If you have any questions or feedback, feel free to reach out to me via email at panwarvishakha31@gmail.com or connect with me on LinkedIn www.linkedin.com/in/vishakha-panwar-web-developer. I'm open to collaborations, job opportunities, or just a friendly chat!
 
 Thank you!
